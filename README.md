@@ -18,8 +18,6 @@ That often means:
 - establishing the architecture and product direction
 - transitioning proven concepts to teams for production and scale
 
-I prefer working prototypes and customer evidence over innovation theater.
-
 ## What I'm working on
 
 ### Vitros
@@ -55,15 +53,33 @@ Much of my current work explores:
 - rapid prototyping
 - human-in-the-loop workflows
 
-## How I think about product
+## How I work
 
-> Strategy becomes much more useful once you can test it.
+A few principles have followed me through product, technology, design, and leadership.
 
-My preferred approach is simple:
+### 01 — You can't fake curiosity
 
-**Understand the problem → build enough to prove it → learn → scale what works.**
+Curious people ask uncomfortable questions because that's how you find the real problem.
 
-I've spent my career moving between executive leadership and hands-on product work. Earlier in my career that meant software development, UX, information architecture, and technical product management. Today it increasingly means using modern web, mobile, and AI technologies to turn new ideas into working products quickly.
+### 02 — Be intentional
+
+Add value deliberately. Make clear decisions, move with purpose, and adjust course when the evidence changes.
+
+### 03 — Working software rules
+
+Documentation and process matter, but working software and fast iteration matter more.
+
+### 04 — Communication is paramount
+
+Trust, communication, and collaboration build better products than process alone.
+
+### 05 — Less is usually more
+
+Do fewer things, better. Better products beat bigger products, and focus beats feature creep.
+
+### 06 — Be prepared for progress
+
+Show up ready to move the work forward. Momentum is a shared responsibility.
 
 ## Current toolbox
 
