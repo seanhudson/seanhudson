@@ -20,6 +20,8 @@ That often means:
 
 ## What I'm working on
 
+Two current products where I explore how AI, product design, and modern software architecture come together.
+
 ### Vitros
 
 [vitros.app](https://vitros.app)
@@ -39,6 +41,28 @@ I designed and built the platform end-to-end, including:
 - automated testing and production delivery
 
 Vitros is also where I experiment with how AI changes the way products are designed, engineered, tested, and operated.
+
+### NextGig
+
+[nextgig-alpha.vercel.app](https://nextgig-alpha.vercel.app) · private alpha
+
+An AI-powered job-search agent that continuously searches, evaluates, and ranks opportunities against a user's career profile, preferences, and constraints.
+
+I designed and built the platform end-to-end, including:
+
+- conversational career profiling and preference learning
+- automated daily job discovery and verification
+- probabilistic screening and rubric-based job scoring
+- AI-generated application support grounded in résumé evidence
+- interview practice and career coaching workflows
+- scheduled search and weekly review agents
+- multi-model routing with automatic provider failover
+- eval-driven model selection based on quality, cost, and latency
+- usage-based credits, rate limiting, transactional email, and SaaS infrastructure
+
+Built with **Next.js 16, React 19, TypeScript, Prisma/Postgres, Vercel AI SDK, Resend, Vitest, and Playwright**.
+
+NextGig is also an experiment in making AI systems more operational: not just generating answers, but running repeatable workflows, making ranked decisions, and improving those decisions through evals.
 
 ### AI + product experimentation
 
@@ -93,5 +117,6 @@ The tools change. Shipping useful things is the point.
 
 [LinkedIn](https://www.linkedin.com/in/seanmhudson) ·
 [Vitros](https://vitros.app) ·
+[NextGig](https://nextgig-alpha.vercel.app) ·
 [Sean Hudson Studio](https://seanhudsonstudio.com) ·
 [Crow and Raven](https://crowandraven.com)
